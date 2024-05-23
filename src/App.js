@@ -37,10 +37,10 @@ const App = () => {
       items: [
         {
           id: 1,
-          image: '/imagenes/almuerzo.italiano.jpg', // Imagen que representa "Almuerzos"
+          image: '/imagenes/almuerzo.italiano.jpg', 
           description: 'Lasaña',
           detailedDescription: 'La receta de lasaña más conocida, la tradicional, es la de carne a la boloñesa. Se trata de un plato muy completo y equilibrado, de fama mundial.',
-          price: '25.000', // Puedes dejarlo vacío si no hay precio definido
+          price: '25.000',
         },
         {
           id: 2,
