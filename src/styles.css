@@ -38,6 +38,9 @@ header {
     text-align: center; /* Para centrar el título */
   }
   
+  html {
+    scroll-behavior: smooth;
+  }
   
   
 
